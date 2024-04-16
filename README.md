@@ -17,7 +17,7 @@
 - you can use prettier or eslint 
 ```
 npm run prettier 
-npm run lint
+npm run lin
 ```
 
 ### Finall app (example)

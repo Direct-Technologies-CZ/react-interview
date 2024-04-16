@@ -1,2 +1,8 @@
 # NPM
 node_modules
+.npmrc
+.next
+
+#IDE
+vscode
+jetbrains

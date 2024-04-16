@@ -22,6 +22,6 @@ npm run lint
 ```
 
 ### Finall app (example)
-[finall_app](https://github.com/Direct-Technologies-CZ/react-interview/blob/result/public/finall_app.png)
+![finall_app](https://github.com/Direct-Technologies-CZ/react-interview/blob/result/public/finall_app.png)
 
 # Happy coding 👍

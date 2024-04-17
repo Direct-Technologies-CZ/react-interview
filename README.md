@@ -3,7 +3,7 @@
 ### Before start coding 💻 😮‍💨
 
 - create and checkout your branch (format initials of name with date), example `jn_1_1_2024`
-- What we are watching?
+- What are we watching?
 
   - Work with Typescript
   - Work with Git
@@ -28,6 +28,6 @@ npm run lint
 
 ### Finall app (example)
 
-![finall_app](https://github.com/Direct-Technologies-CZ/react-interview/blob/result/public/finall_app.png)
+![screenshot](https://github.com/Direct-Technologies-CZ/react-interview/blob/main/public/finall_app.png)
 
 # Happy coding 👍
